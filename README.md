@@ -1,64 +1,83 @@
-## Your Name
+## Cathal Lavelle
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A budding software engineer entering into the world of tech. After studying Business and French in Trinity College Dublin and subsequently working in the property sectorfor a few years, I decided to change my career trajectory. My career to date has largely circled around finding creative solutions to unique client issues.
+
+In my short career, I have managed multiple small teams and aided with process implementation and training. I have juggled completing a part-time Masters in Human Resources management while working full-time. My experience with high value clients and people management has have taught me how to be creative ad well as invaluable stakeholder management skills. I am excited to see how I can utilise these skills on my new journey as a software engineer
+
+I am excited by the area of Front-end development and how I can use my artistic side and creativity to build engaging and impactful web apps.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Student Directory Application**            | An interactive command line app which allows to track the students of a school. The program could interact with local files to allow for an interactive and flexible solution. | Ruby |
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Houst** (October 2019 - July 2020)  
+Supplier Management Team Manager
 
-- Any experience relevent to software development
+- Striking up partnerships and contracts with new suppliers to improve our operations and reduce overheads for the business and our clients.
+- Managing all supplier relations for Irish operations.
+- High volume recruitment and performance management of a team of 40+ housekeepers.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Houst** (March 2018 - October 2019)  
+Client Success Team Manager
 
-- Any experience relevent to software development
+- Leading projects surrounding process improvements and best practice.
+- Ensuring my team are reaching growth and customer satisfaction metrics.
+- Responsible for revenue maximisation of our Irish clientbase.
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Working in teams
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+- With my latest employer, my teams always operated on a basis of shared workload. I am very adept and comfortble in working in these environments where collaboration is the cornerstone of productivity.
+- I was in charge of designing and implementing a new workflow for all teams in my department to help better our organisational capability to collaboate and share work more seemlessly.
+
+
+#### Working under Pressure
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- My career has taken place in the field of live operations, and I am used to dealing with a queue of time sensetive issues.
+- My ability to work under pressure is based on prioritisation and my ability to break down problems and think logically.
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2020 - February 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### National College of Ireland (September 2018 - August 2020)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- M.A. in Human Resources Management
+- 2.1
+- Studied at night while working fulltime.
 
-#### Any other qualifications
+#### Trinity College Dublin (September 2013 - May 2017)
 
-That in some arguable way make you a better software developer or well-rounded person
+- B.B.S Lang in Business studies and French
+- 2.1
+- Recipient of the First CLass Book prize for academic excellence 2016.
+
+#### Personal Achievements
+
+- Three time National swimming champion
+- Completed a mediation course with the Mediators Institute of Ireland
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Swimming
+- Tennis
+- Classical Music
