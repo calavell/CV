@@ -30,13 +30,7 @@ Client Success Team Manager
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 #### Working in teams
-
-- Experience
-- Achievements
-- Evidence
 
 - With my latest employer, my teams always operated on a basis of shared workload. I am very adept and comfortble in working in these environments where collaboration is the cornerstone of productivity.
 - I was in charge of designing and implementing a new workflow for all teams in my department to help better our organisational capability to collaboate and share work more seemlessly.
@@ -44,11 +38,13 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Working under Pressure
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- My career has taken place in the field of live operations, and I am used to dealing with a queue of time sensetive issues.
+- My latest role was in live operations, and I am comfortable dealing with a queue of time sensetive issues.
 - My ability to work under pressure is based on prioritisation and my ability to break down problems and think logically.
 
+
+#### Problem-solving
+- I am comfortable in taking complex issues and breaking them down into small mangeable tasks.
+- My ability to prioritise and think rationally allows me to to follow a systematic process when coming up against problems or bugs.
 
 ## Education
 
@@ -69,7 +65,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - B.B.S Lang in Business studies and French
 - 2.1
-- Recipient of the First CLass Book prize for academic excellence 2016.
+- Recipient of the First Class Book prize for academic excellence 2016.
 
 #### Personal Achievements
 
@@ -81,3 +77,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Swimming
 - Tennis
 - Classical Music
+- Writing (take a look at my [blog](https://cathallavelle.medium.com/))
