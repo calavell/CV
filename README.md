@@ -10,7 +10,9 @@ I am excited by the area of Front-end development and how I can use my artistic 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Student Directory Application**            | An interactive command line app which allows to track the students of a school. The program could interact with local files to allow for an interactive and flexible solution. | Ruby |
+| [Book-swap](https://github.com/argy-bargy/book_swap)            | A booksharing app which was created to allow members of the public to share books that they have finished reading and collect other books they are interested in. This project was developed in an agile team of 6 over a 2 week period.| MERN stack (MongoDB, Express, React, NodeJS). Test suite: Mocha Chai, Enzyme, Cypress. |
+| [Acebook](https://github.com/sujee09/acebook-akers-cademy)            | A social media app that was created to simulate facebook. It was created to allow users to login and share posts with one another| React and Vanilla JS for frontend, Ruby on Rails for backend, Postgresql for database storage. Testing with Rspec. |
+| [Bank tech test](https://github.com/calavell/bank-tech-test)            | A tech test completed to demonstrate clean code quality and good OO principals| Ruby, testing with Rspec |
 
 ## Experience
 
