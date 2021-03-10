@@ -16,21 +16,21 @@ I believe in following good TDD principals and I look forward to applying this i
 
 ## Experience
 
-**Makers Academy** (November 2020 - February 2021)
+### Makers Academy (November 2020 - February 2021)
 Software Development Student
 
 - Spent 16 weeks learning software development techniques by working in agile teams to craft software.
 - Have developed strong OOD and TDD practices.
 - Built projects using multiple tech stacks which were often self-taught.
 
-**Houst** (October 2019 - July 2020)  
+### Houst (October 2019 - July 2020)  
 Supplier Management Team Manager
 
 - Striking up partnerships and contracts with new suppliers to improve our operations and reduce overheads for the business and our clients.
 - Managing all supplier relations for Irish operations.
 - High volume recruitment and performance management of a team of 40+ housekeepers.
 
-**Houst** (March 2018 - October 2019)  
+### Houst (March 2018 - October 2019)  
 Client Success Team Manager
 
 - Leading projects surrounding process improvements and best practice.
