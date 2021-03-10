@@ -16,6 +16,13 @@ I believe in following good TDD principals and I look forward to applying this i
 
 ## Experience
 
+**Makers Academy** (November 2020 - February 2021)
+Software Development Student
+
+- Spent 16 weeks learning software development techniques by working in agile teams to craft software.
+- Have developed strong OOD and TDD practices.
+- Built projects using multiple tech stacks which were often self-taught.
+
 **Houst** (October 2019 - July 2020)  
 Supplier Management Team Manager
 
