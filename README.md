@@ -23,6 +23,7 @@ Software Development Student
 - Have developed strong OOD and TDD practices.
 - Built projects using multiple tech stacks which were often self-taught.
 
+
 ### Houst (October 2019 - July 2020)  
 Supplier Management Team Manager
 
@@ -30,12 +31,14 @@ Supplier Management Team Manager
 - Managing all supplier relations for Irish operations.
 - High volume recruitment and performance management of a team of 40+ housekeepers.
 
+
 ### Houst (March 2018 - October 2019)  
 Client Success Team Manager
 
 - Leading projects surrounding process improvements and best practice.
 - Ensuring my team are reaching growth and customer satisfaction metrics.
 - Responsible for revenue maximisation of our Irish clientbase.
+
 
 ## Skills
 
