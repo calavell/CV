@@ -90,3 +90,4 @@ Client Success Team Manager
 - Tennis
 - Classical Music
 - Writing (take a look at my [blog](https://cathallavelle.medium.com/))
+- Learning about algorithmic complexity (beginner)
