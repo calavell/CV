@@ -1,5 +1,7 @@
 ## Cathal Lavelle
 
+<div align="center">The derogatory term “scrub” means several different things. One definition is someone (especially a game player) who is not good at something (especially a game). By this definition, we all start out as scrubs, and there is certainly no shame in that. I mean the term differently, though. A scrub is a player who is handicapped by self-imposed rules that the game knows nothing about. A scrub does not play to win.</div>
+
 [LinkedIn](https://www.linkedin.com/in/cathal-lavelle-3b1494b5/) | [Blog](https://cathallavelle.medium.com/)
 
 A budding software engineer entering into the world of tech. After studying Business and French in Trinity College Dublin and subsequently working in the property sectorfor a few years, I decided to change my career trajectory. My career to date has largely circled around finding creative solutions to unique client issues.
