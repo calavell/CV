@@ -1,5 +1,6 @@
 ## Cathal Lavelle
 
+<div align="center> <a href="https://www.linkedin.com/in/cathal-lavelle-3b1494b5/"> LinkedIn </a> | <a href="https://cathallavelle.medium.com/"> Blog </a> </div>
 [LinkedIn](https://www.linkedin.com/in/cathal-lavelle-3b1494b5/) | [Blog](https://cathallavelle.medium.com/)
 
 A budding software engineer entering into the world of tech. After studying Business and French in Trinity College Dublin and subsequently working in the property sectorfor a few years, I decided to change my career trajectory. My career to date has largely circled around finding creative solutions to unique client issues.
