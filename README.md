@@ -81,10 +81,11 @@ Client Success Team Manager
 - 2.1
 - Recipient of the First Class Book prize for academic excellence 2016.
 
-#### Personal Achievements
+## Personal Achievements
 
 - Three time National swimming champion
 - Completed a mediation course with the Mediators Institute of Ireland
+- Have quafifications as a sailing and swimming instructor
 
 ## Hobbies
 
