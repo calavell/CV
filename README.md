@@ -4,7 +4,7 @@
 
 A budding software engineer entering into the world of tech. After studying Business and French in Trinity College Dublin and subsequently working in the property sectorfor a few years, I decided to change my career trajectory. My career to date has largely circled around finding creative solutions to unique client issues.
 
-In my short career, I have managed multiple small teams and aided with process implementation and training. I have juggled completing a part-time Masters in Human Resources management while working full-time. My experience with high value clients and people management has have taught me how to be creative ad well as invaluable stakeholder management skills. I am excited to see how I can utilise these skills on my new journey as a software engineer
+In my short career, I have managed multiple small teams and aided with process implementation and training. I have juggled completing a part-time Masters in Human Resources management while working full-time. My experience with high value clients and people management has taught me how to be creative as well as invaluable stakeholder management skills. I am excited to see how I can utilise these skills on my new journey as a software engineer
 
 I believe in following good TDD principals and I look forward to applying this in my next role as a junior software engineer.
 
